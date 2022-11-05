@@ -16,13 +16,14 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/VOA-TVMC07_0480/chunkli
 http://51.210.227.133/hls/stream.m3u8
 #EXTINF:-1 group-title="AFGHAN",1TV
 http://51.210.227.142/hls/stream.m3u8
-
 #EXTINF:-1 ,Ariana Afghanistan International TV
 http://iptv.arianaafgtv.com/ariana/playlist1/index.m3u8
 #EXTINF:-1 group-title="AFGHAN",AFGHANISTAN INTERNATIONAL
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 ,ATN News
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
+#EXTINF:-1 ,WATNEMA
+https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 #EXTINF:-1 group-title="AFGHAN",MARIF
 http://51.210.199.51/hls/stream.m3u8
 
@@ -99,6 +100,95 @@ http://51.210.199.32/hls/stream.m3u8
 http://51.210.227.138/hls/stream.m3u8
 #EXTINF:-1 group-title="IRANI",FX
 http://51.210.199.52/hls/stream.m3u8
+#IRANI
+
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",IFILM DARI
+https://live1.presstv.ir/live/ifilm2_360p/index.m3u8
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",PMC ROYALS 
+http://51.210.199.29/hls/stream.m3u8
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",4U TV
+http://51.210.227.153/hls/stream.m3u8
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",MANOTO
+https://edge-cdn1.manoto.click/live_500.m3u8
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",AVA FAMILY 
+http://51.210.199.5/hls/stream.m3u8
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",AVA SERIES
+http://51.210.199.4/hls/stream.m3u8
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",FARAR AZ ZINDAN
+http://51.210.199.3/hls/stream.m3u8
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",PERSIANA HD
+http://51.210.227.147/hls/stream.m3u8
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",PERSIANA 1
+http://51.210.199.21/hls/stream.m3u8
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",PERSIANA COMEDY
+http://51.210.199.27/hls/stream.m3u8
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",PERSIANA PLUS
+http://51.210.199.21/hls/stream.m3u8
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",PERSIANA FAMILY
+http://51.210.199.19/hls/stream.m3u8
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",MAH TV
+http://51.210.199.33/hls/stream.m3u8
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",VOX 1
+http://51.210.199.8/hls/stream.m3u8
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",ICC TV
+http://51.210.227.156/hls/stream.m3u8
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",BRAVO FARSI
+http://51.210.199.16/hls/stream.m3u8
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",JAVAN TV
+https://nl2.livekadeh.com/hls2/javanantv_high.m3u8
+
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",PERSIAN FILM
+http://51.210.227.135/hls/stream.m3u8
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="ENGLISH", 24/7
+https://hls.247box.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="ENGLISH",OXR
+http://51.254.225.26/hls/stream.m3u8
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="ENGLISH",SL TV
+http://51.210.199.3/hls/stream.m3u8
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="ENGLISH",SL TV2
+http://51.210.199.2/hls/stream.m3u8
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="ENGLISH",TM TV
+http://51.210.227.151/hls/stream.m3u8
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="ENGLISH",ITN TV
+http://51.210.199.31/hls/stream.m3u8
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="ENGLISH",ICNET
+https://60ba7ef02e687.streamlock.net/ICNET2/ngrp:icnet_all/chunklist_w1892496691_b493000.m3u8
+
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="ENGLISH",YOUR TIME
+https://hls.yourtime.live/hls/stream.m3u8
+
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="ENGLISH",AMG
+https://nl.livekadeh.com/hls2/AMG_src.m3u8
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="ENGLISH",TAPISH
+http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8
 
 #ENGLISH
 #EXTINF:-1 ,Comet
@@ -209,5 +299,49 @@ http://212.102.60.80/Eurosport2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,MAQ TV CRICKET
 http://str24.l9574.com/517.stream/index.m3u8
+
+
+#EXTINF:-1,TRT 1
+https://59c7ea6bec1c6.streamlock.net/filbox/trt1.stream/playlist.m3u8
+
+#EXTINF:-1,atv
+https://59c7ea6bec1c6.streamlock.net/filbox/atv.stream/playlist.m3u8
+
+#EXTINF:-1,Show TV
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+
+#EXTINF:-1,Beyaz TV
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+
+#EXTINF:-1,Star TV
+https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
+
+#EXTINF:-1,360 TV
+https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
+
+#EXTINF:-1,Kanal 7 Avrupa
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+
+#EXTINF:-1,Sports TV
+http://iptvmasterlink.dyndns.org:8080/SportsTv/playlist.m3u8
+
+#EXTINF:-1,Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8
+
+#EXTINF:-1,TV SMS
+https://yayin.santraltr.com/hls/tvsms.m3u8
+
+#EXTINF:-1,Top Pop TV
+https://yayin.santraltr.com/hls/toppop.m3u8
+
+#EXTINF:-1,Zeyno TV
+https://yayin.santraltr.com/hls/zeynotv.m3u8
+
+#EXTINF:-1,Yansıma Sinema
+https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks-v1a1/mono.m3u8
+
+
+
+
 
 
