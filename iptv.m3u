@@ -209,8 +209,7 @@ https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 ,My Cinema
 http://210.210.155.37/uq2663/h/h192/index.m3u8
-#EXTINF:-1 group-title="RUSSIAN",RT
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+
 #EXTINF:-1 ,BBC News HD
 https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTINF:-1 group-title="ENGLISH",Love Nature
