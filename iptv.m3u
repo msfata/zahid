@@ -71,8 +71,23 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 http://208.86.19.13:81/7233.stream/index.m3u8
 #EXTINF:-1 ,DD National
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddnational/ddnational.isml/ddnational-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 group-title="HINDI",Zee Aflam
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+
+#EXTINF:-1, 90 PLUS
+http://51.210.227.141/hls/stream.m3u8
+#EXTINF:-1,TV  AVANG
+http://51.210.227.149/hls/stream.m3u8
+#EXTINF:-1,TV IRAN MUSIC
+http://51.210.227.161/hls/stream.m3u8
+#EXTINF:-1,TV ANIMALS
+http://51.210.227.155/hls/stream.m3u8
+#EXTINF:-1,TV icc 
+http://51.210.227.156/hls/stream.m3u8
+#EXTINF:-1,TV PERSIANA
+http://51.210.227.147/hls/stream.m3u8
+#EXTINF:-1,TV  PERSIAN
+http://51.210.227.154/hls/stream.m3u8
+#EXTINF:-1,TV  KHATERA
+http://51.210.227.165/hls/stream.m3u8
 #EXTINF:-1 group-title="IRANI",ONYX
 http://51.254.225.26/hls/stream.m3u8
 #EXTINF:-1 group-title="IRANI",PMC
