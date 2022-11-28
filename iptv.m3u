@@ -8,7 +8,6 @@
 #https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/8cac4337-bd91-4a15-828c-7e028cc19152/0.m3u8
 #bollywood classic https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/77da62b2-e694-4d4a-82d2-d435b22e3196/0.m3u8
 
-
 #EXTM3U
 #EXTINF:-1 ,BBC Persian
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
@@ -38,11 +37,6 @@ http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chun
 http://51.210.227.161/hls/stream.m3u8
 #EXTINF:-1 group-title="AFGHAN",AFGHAN NOBEL MUSIC
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1828585374.m3u8
-
-
-
-
-
 #EXTINF:-1 group-title="INDIA",BollywoodHD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
 #EXTINF:-1 group-title="INDIA",BollywoodClassic
@@ -63,10 +57,10 @@ http://208.86.19.13:81/7300.stream/index.m3u8
 http://208.86.19.13:81/7033.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
-#EXTINF:-1 group-title="INDIA",B4U KADAK
-https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 #EXTINF:-1 group-title="INDIA",ZEE ACTION
 http://208.86.19.13:81/7288.stream/index.m3u8
+#EXTINF:-1,B4U KADAK
+https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 #EXTINF:-1 group-title="INDIA",ZEE AFLAM
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 group-title="INDIA",BOLLYWOOD UAE
@@ -83,8 +77,6 @@ https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 http://51.254.225.26/hls/stream.m3u8
 #EXTINF:-1 group-title="IRANI",PMC
 https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:-1 group-title="IRANI",AVA
-http://51.210.199.5/hls/stream.m3u8
 #EXTINF:-1 group-title="IRANI",OXR
 http://51.254.225.26/hls/stream.m3u8
 #EXTINF:-1 group-title="IRANI",VOX
@@ -113,8 +105,6 @@ https://live1.presstv.ir/live/ifilm2_360p/index.m3u8
 http://51.210.199.29/hls/stream.m3u8
 #EXTINF:-1 group-title="IRANI",4U TV
 http://51.210.227.153/hls/stream.m3u8
-#EXTINF:-1 group-title="IRANI",AVA FAMILY
-http://51.210.199.5/hls/stream.m3u8
 #EXTINF:-1 group-title="IRANI",AVA SERIES
 http://51.210.199.4/hls/stream.m3u8
 #EXTINF:-1 group-title="IRANI",FARAR AZ ZINDAN
@@ -181,8 +171,6 @@ https://inwild-samsungindia.amagi.tv/playlist720-p.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 ,CPEtv
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
-#EXTINF:-1 ,DirecTV Sports
-http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 #EXTINF:-1 ,Victor Valley Movies
 https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
 #EXTINF:-1 ,Local Now Drama
@@ -229,12 +217,8 @@ https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8
 #EXTINF:-1 ,Sports TV Plus
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
-#EXTINF:-1 ,Sports Tonight
-http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:-1 ,EDGEsport
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,EUROSPORT 2 HD
-http://212.102.60.80/Eurosport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,MAQ TV CRICKET
 http://str24.l9574.com/517.stream/index.m3u8
 #EXTINF:-1 ,Show TV
@@ -255,7 +239,6 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u
 https://yayin.santraltr.com/hls/tvsms.m3u8
 #EXTINF:-1 ,Zeyno TV
 https://yayin.santraltr.com/hls/zeynotv.m3u8
-
 #EXTINF:-1 ,TV  128
 http://51.210.227.128/hls/stream.m3u8
 #EXTINF:-1 ,TV  130
@@ -308,12 +291,11 @@ http://51.210.227.160/hls/stream.m3u8
 http://51.210.227.161/hls/stream.m3u8
 #EXTINF:-1 ,TV  163
 http://51.210.227.163/hls/stream.m3u8
-
 #EXTINF:-1 group-title="INDIA",A HD
 http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/cz2fpdj6/2728/chunklist.m3u8
-#EXTINF:-1 group-title="INDIA",ENGLISH GREEK 
+#EXTINF:-1 group-title="INDIA",ENGLISH GREEK
 https://s1.cystream.net/live/34100/chunks.m3u8
-#EXTINF:-1 group-title="INDIA",ROCK EXTREME 
+#EXTINF:-1 group-title="INDIA",ROCK EXTREME
 http://210.210.155.35/session/52acdc30-30c4-11e9-b47d-c81f66f89318/dr9445/h/h15/01.m3u8
 #EXTINF:-1 group-title="ENGLISH",SOFY
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
@@ -329,7 +311,6 @@ http://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="ENGLISH",WILD 1
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
-
 #EXTINF:-1 group-title="ENGLISH",SPORT 6
 http://208.86.19.13:81/6022.stream/index.m3u8
 #EXTINF:-1 group-title="ENGLISH",SPORT 7
@@ -342,4 +323,3 @@ http://208.86.19.13:81/6100.stream/index.m3u8
 http://208.86.19.13:81/7122.stream/index.m3u8
 #EXTINF:-1 group-title="ENGLISH",MUSIC
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w987955597.m3u8
-
