@@ -1,0 +1,135 @@
+#EXTM3U
+#EXTINF:-1 group-title="ENGLISH" ,Electric Now
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,AXS TV (US)
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,V2BEAT (UK)
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,MTV
+http://168.181.122.234:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,Myx USA
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-myxnola/CDN/playlist.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,XITE (DE)
+https://xite-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SPORT
+http://202.21.104.6:88/sps-world/index.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,RT
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,LOCAL NOW ADRENALINE RUSH (US)
+https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,Star Movies HD
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,Heartland
+https://i.mjh.nz/SamsungTVPlus/USBB2900003O3.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,Ebony TV by Lionsgate
+https://i.mjh.nz/SamsungTVPlus/USBD2500012DH.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,Circle
+https://i.mjh.nz/SamsungTVPlus/USBA300035FV.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,4UV
+https://i.mjh.nz/SamsungTVPlus/USBD70000412.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,Shades of Black
+https://i.mjh.nz/SamsungTVPlus/USBC1000004G8.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,VICE
+https://i.mjh.nz/SamsungTVPlus/USBB1900006NY.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,Revry
+https://i.mjh.nz/SamsungTVPlus/USBA3800003VP.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,Shout! Factory
+https://i.mjh.nz/SamsungTVPlus/USBD1200021JM.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,Dove Channel
+https://i.mjh.nz/SamsungTVPlus/USBD700016JY.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,MHz Now
+https://i.mjh.nz/SamsungTVPlus/USAJ22000130U.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,Cowboy Way
+https://i.mjh.nz/SamsungTVPlus/USBC3200020QF.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,Brat TV
+https://i.mjh.nz/SamsungTVPlus/USBC240001823.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ET
+https://i.mjh.nz/SamsungTVPlus/USBA3700002JF.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ION Mystery
+https://i.mjh.nz/SamsungTVPlus/USBC24000223S.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,I Survived…
+https://i.mjh.nz/SamsungTVPlus/USBD1700008H9.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,Origin Sports
+https://i.mjh.nz/SamsungTVPlus/USBD1200010I8.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,IMPACT Wrestling
+https://i.mjh.nz/SamsungTVPlus/USBB1000001XP.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,Top Gear
+https://i.mjh.nz/SamsungTVPlus/USBC2400027NG.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,Gusto TV
+https://i.mjh.nz/SamsungTVPlus/USAK3508724A.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,Matched Married Meet
+https://i.mjh.nz/SamsungTVPlus/USBC440000193.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,Hoarders by A&E
+https://i.mjh.nz/SamsungTVPlus/USBD4200009Y4.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,XITE Just Chill
+https://i.mjh.nz/SamsungTVPlus/USBB2300003JZ.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,Charge! (720p)
+https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,Film Hub (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,Fox
+https://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,World Cup 2023 Live Match 8
+https://hls.streambtw.com/live/stream_8.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,Ciudad TV Chaco
+http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,ESPN
+http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SPORT
+http://168.227.22.18:1935/live/mobile-049/playlist.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,FoxSport
+http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,Sony Sports Ten 2(BD)
+http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,Sony Sports Ten 5 HD(BD)
+http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,sport
+http://103.120.172.74:1030
+#EXTINF:-1 group-title="ENGLISH" ,MBC 2 4K
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/191
+#EXTINF:-1 group-title="ENGLISH" ,Sony Channel HD(BD)
+http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,Movie Sphere(BD)
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,Movie Sphere(BD)
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,Brat TV
+https://brat-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,Movie SPhere
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,SPACE 
+http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,Mix Hollywood
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/435
+#EXTINF:-1 group-title="ENGLISH" ,Reload Play
+http://web.onair-radio.eu:1935/video/video/playlist.m3u8
+#EXTINF:-1 group-title="ENGLISH" ,LATE NIGHT
+https://futuretoday-afv-family-2-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Film zone
+http://89.254.128.5:22280/film_zone/video.m3u8
+#EXTINF:-1,Black
+http://23.237.100.82:8000/PLAYBOY/index.m3u8
+#EXTINF:-1,Moviedome [Germany]
+https://kochmedia-moviedome-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1,HBO HD
+https://edge1.laotv.la/live/HBO/index.m3u8
+#EXTINF:-1,HBO Hits
+http://ott1.co:8080/live/22552255/22552255/152372.ts
+#EXTINF:-1,beIN Sports 1 [True Visions]
+https://edge2.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1,PTV Sports HD
+http://175.107.244.52:4457/play/a08g/index.m3u8
+#EXTINF:-1,Sony Ten 1
+http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
+#EXTINF:-1,Comet
+http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+#EXTINF:-1,Toonami Aftermath Movies
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+#EXTINF:-1,Victor Valley Movies
+https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
+#EXTINF:-1,My Cinema
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+#EXTINF:-1,Victor Valley Movies
+https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
+#EXTINF:-1,ROCK EXTREME
+http://210.210.155.35/session/52acdc30-30c4-11e9-b47d-c81f66f89318/dr9445/h/h15/01.m3u8
