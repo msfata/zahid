@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Wyon
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="ENGLISH" ,Electric Now
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
 #EXTINF:-1 group-title="ENGLISH" ,AXS TV (US)
